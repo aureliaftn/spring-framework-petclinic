@@ -1,4 +1,4 @@
-Exo 2
+Exo2bis
 
 # Spring PetClinic Sample Application
 
